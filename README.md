@@ -6,6 +6,7 @@
 - Supply frame sequence as an array
 - Control playback delay
 - Stand alone javascript plugin - does not need jQuery to work
+- Uses javascript class design and prototyping to add new features to this plugin
 
 ## Usage
 - Download and install by dropping the ```/PlayBackJS``` in your project's javascript directory
