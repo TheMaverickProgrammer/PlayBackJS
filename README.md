@@ -26,9 +26,9 @@
 Optionally bind actions to control buttons:
 
 ```
-	$('#btnPlaybackPlay').on('click',  () => playback.play());
-	$('#btnPlaybackPause').on('click', () => playback.pause());
-	$('#btnPlaybackStop').on('click',  () => playback.stop());
+  $('#btnPlaybackPlay').on('click',  () => playback.play());
+  $('#btnPlaybackPause').on('click', () => playback.pause());
+  $('#btnPlaybackStop').on('click',  () => playback.stop());
 ```
 
 ## Contribute
