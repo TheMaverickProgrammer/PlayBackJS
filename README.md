@@ -10,6 +10,7 @@
 ## Usage
 - Download and install by dropping the ```/PlayBackJS``` in your project's javascript directory
 - Include the script in your HTML headers e.g. ```<script src="js/PlayBackJS/playback.js"></script>```
+- Provide an html canvas to render the animation onto e.g. ```<canvas id="playbackCanvas"></canvas>```
 - Call the constructor
 ```javascript
   var playback = new PlayBack({
