@@ -11,7 +11,7 @@
 - Download and install by dropping the ```/PlayBackJS``` in your project's javascript directory
 - Include the script in your HTML headers e.g. ```<script src="js/PlayBackJS/playback.js"></script>```
 - Call the constructor
-```
+```javascript
   var playback = new PlayBack({
     imgSrc: "http://mysite.com/img/spritesheet.png",
     target: "playbackCanvas",
@@ -25,7 +25,7 @@
 
 Optionally bind actions to control buttons:
 
-```
+```javascript
   $('#btnPlaybackPlay').on('click',  () => playback.play());
   $('#btnPlaybackPause').on('click', () => playback.pause());
   $('#btnPlaybackStop').on('click',  () => playback.stop());
