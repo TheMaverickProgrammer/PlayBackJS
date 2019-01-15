@@ -75,9 +75,6 @@ playback.refresh();
 ## Contribute
 Contributions are always welcome! Discovered a bug? Have an idea? File a [new issue](https://github.com/TheMaverickProgrammer/PlayBackJS/issues) on github.
 
-## Donations
-If you found this project useful, kindly donate to my bitcoin address: ```16Nvuh4zjD4kmdnLtR12jkK3NkYReJJB1G```
-
 ## License
 
 ![MIT](https://dl.dropbox.com/s/dmnb84n9s6sn55e/mit.png)
